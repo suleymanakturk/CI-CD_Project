@@ -1,0 +1,8 @@
+Aşağıdaki komutla bu dizinde tüm YAML dosyalarımızı deploy ediyoruz
+kubectl apply -f .
+
+
+Aşağıdaki komutla pod ve servisleri kontrol ediyoruz. Pod running duruma geçtiğinde service üzerinde aldığı IP adresini görüntüleyip browser üzerinden erişim sağlıyoruz.
+
+kubectl get pod,svc -n devops-tools
+
