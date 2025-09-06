@@ -15,5 +15,5 @@ spec:
         app: suleymanakturk-anasayfa
     spec:
       containers:
-      - image: redis
+   image: testimage
         name: suleymanakturk-anasayfa
