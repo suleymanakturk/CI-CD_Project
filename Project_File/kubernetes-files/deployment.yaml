@@ -15,5 +15,5 @@ spec:
         app: suleymanakturk-anasayfa
     spec:
       containers:
-        - image: 'env(image)'
+        - image: 'httpd'
           name: suleymanakturk-anasayfa
