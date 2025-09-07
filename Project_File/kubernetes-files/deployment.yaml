@@ -15,5 +15,5 @@ spec:
         app: suleymanakturk-anasayfa
     spec:
       containers:
-        - image: 'suleymanakturk-anasayfa:v109'
+        - image: 'suleymanakturk-anasayfa:v110'
           name: suleymanakturk-anasayfa
