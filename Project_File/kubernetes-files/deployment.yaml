@@ -15,5 +15,5 @@ spec:
         app: suleymanakturk-anasayfa
     spec:
       containers:
-        - image: 'httpd'
+        - image: 'nginx'
           name: suleymanakturk-anasayfa
